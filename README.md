@@ -1,6 +1,6 @@
 # env-lint
 
-[![CI](https://github.com/myferr/env-lint/actions/workflows/npm-release.yml/badge.svg)](https://github.com/myferr/env-lint/actions/workflows/npm-release.yml)
+[![CI](https://github.com/myferr/env-lint/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/myferr/env-lint/actions/workflows/npm-publish.yml)
 [![License](https://img.shields.io/github/license/myferr/env-lint)](LICENSE)
 [![npm version](https://img.shields.io/npm/v/env-lint.svg)](https://www.npmjs.com/package/env-lint)
 
