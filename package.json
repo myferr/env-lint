@@ -1,6 +1,9 @@
 {
   "name": "env-lint",
   "version": "0.1.0",
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Lint your .env and .env.example files for missing or unused variables.",
   "bin": {
     "env-lint": "./index.js"
